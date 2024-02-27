@@ -49,7 +49,7 @@ export default function Body() {
           RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF
           POWER FOR THE NATION.
         </p>
-        {/* <img src={Util} alt="Util" className="util-img" /> */}
+        <img src={Util} alt="Util" className="util-img" />
         <p className="utils">
           Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables -
           Solar Systems - Motors

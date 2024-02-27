@@ -1,4 +1,5 @@
 import React from "react";
+import "../App.css";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import facebook from "../asserts/facebook.png";
 // import Call from "../asserts/call.png";
